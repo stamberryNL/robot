@@ -11,6 +11,38 @@ Welcome to StamberryRobot's documentation!
    :caption: Contents:
 
 
+Why to build another robot?
+---------------------------
+
+   * Because it's cool!
+   * Because my son wanted to make a presentation about it at school.
+   * Because I like to play with RaspberryPi connected to physical devices and sensors.
+
+Building blocks
+===============
+
+Power supply
+------------
+
+Stepper motor
+-------------
+
+Distance sensor
+---------------
+
+Pi Camera
+---------
+
+IMU module (GY-85)
+------------------
+
+See project of `fhd-codes`_.
+
+.. _fhd-codes: https://github.com/fhd-codes/GY-85_Raspberry-Pi
+
+Using ROS
+=========
+
 
 Indices and tables
 ==================
